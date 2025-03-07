@@ -1,26 +1,62 @@
-# Description du projet :
- 
-Ce projet est une **démonstration** de l'utilisation de **Flexbox** pour créer une mise en page moderne et réactive d'un article de blog. 
-Il inclut des éléments comme un titre, une image, un sous-titre en gras, une date de publication, un abstract, et une section auteur avec photo et nom. 
-Le design est **flexible** et **s'ajuste automatiquement** en fonction de la taille de l'écran, grâce à des propriétés CSS comme Flexbox.
-Bien que le projet ne comprenne pas de **media queriess**, la disposition des éléments s'adapte en fonction de l'espace disponible.
+# 📌 Projet 1 - Flexbox  
 
-# Pile technologique :
-- **HTML5** : Structure du contenu et sémantique.
-- **CSS3** : Mise en page avec **Flebox** pour un alignement fluide des éléments, ainsi que des styles pour les images, les titres, les paragraphes etc.
-- **Google Fonts** : Importation d'une police personnalisée pour améliorer l'esthétique du texte.
+## 📝 Description  
 
-# Caractéristiques  : 
-- **Disposition fluide** : Grâce à **Flexbox**, les éléments du blog (comme les titres, les images et les paragraphes) sont disposés de manière flexible et s'ajustent selon l'espace disponible, sans avoir besoin de media queries.
-- **Mise en forme simple mais efficace** : Utilisation des styles pour les titres (`h1`, `h2`), les images (en fixant une taille maximale), et le paragraphe. Le texte en gras est mis en valeur grâce à la balise `strong`.
-- **Conteneur centralisé** : Un conteneur principal contient tous les éléments du blog, et il est centré à l'écran pour une présentation soignée.
-- **Texte lisible** : Taille du texte ajustée pour une lecture confortable sur différents appareils.
+Ce projet est une **démonstration** de l'utilisation de **CSS Flexbox** pour créer une mise en page moderne et réactive d'un article de blog.  
 
+Il inclut :  
+✅ Un titre et un sous-titre en gras  
+✅ Une image  
+✅ Une date de publication  
+✅ Un résumé de l'article  
+✅ Une section "auteur" avec photo et nom  
 
-# Démo :
-Voici un aperçu de la page : 
-## Version bureau
-![Version bureau](https://github.com/Sweetyamnesia/Projet-1-flexbox/blob/main/Projet-1.jpg?raw=true)
+Grâce à **Flexbox**, la disposition des éléments s'ajuste **automatiquement** en fonction de la taille de l'écran, **sans utiliser de media queries**.
 
-## Version mobile
-![Version mobile](https://github.com/Sweetyamnesia/Projet-1-flexbox/blob/main/Projet-1-mobile.jpg?raw=true)
+---
+
+## 🛠️ Pile technologique  
+
+- **HTML5** → Structure du contenu et sémantique  
+- **CSS3** → Mise en page avec **Flexbox**  
+- **Google Fonts** → Importation d'une police personnalisée  
+
+---
+
+## ✨ Fonctionnalités  
+
+- 📐 **Disposition fluide** → Les éléments du blog s'adaptent dynamiquement à l'espace disponible  
+- 🎨 **Mise en forme simple mais efficace** → Styles appliqués aux titres, images et paragraphes  
+- 📌 **Conteneur centralisé** → La mise en page est recentrée pour une meilleure lisibilité  
+- 👁️ **Texte lisible** → Taille du texte optimisée pour le confort de lecture  
+
+---
+
+## 🚀 Installation & Utilisation  
+
+1️⃣ **Cloner le projet**  
+```bash
+git clone https://github.com/Sweetyamnesia/Projet-1-flexbox.git
+cd Projet-1-flexbox
+```
+2️⃣ **Ouvrir `index.html` dans un navigateur**  
+
+---
+
+## 📷 Démo  
+
+### 🖥️ Version Bureau  
+![Version bureau](https://github.com/Sweetyamnesia/Projet-1-flexbox/blob/main/Projet-1.jpg?raw=true)  
+
+### 📱 Version Mobile  
+![Version mobile](https://github.com/Sweetyamnesia/Projet-1-flexbox/blob/main/Projet-1-mobile.jpg?raw=true)  
+
+---
+
+## 🔗 Ressources utiles  
+- [📖 Guide officiel Flexbox (MDN)](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Flexible_Box_Layout)  
+- [🎨 Guide complet Flexbox (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)  
+
+---
+
+🚀 **Prêt à flexer avec Flexbox !** 💪😃
